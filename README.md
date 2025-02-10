@@ -41,3 +41,6 @@ This project shows you how to:
    - In VirtualBox, select each VM and navigate to **Settings > Network**.
    - Add the shared network by selecting a **Host-only Adapter** or **Internal Network**.
    - Assign static IP addresses (e.g., VM1: `192.168.15.4`, VM2: `192.168.15.5`).
+---
+
+This README.md file covers the essentials for setting up your environment, configuring a shared network, deploying a simple Node.js microservice, testing inter-VM connectivity, and managing the project on GitHub. You can adjust the details as needed for your specific project requirements.
